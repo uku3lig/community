@@ -1,0 +1,5 @@
+type: text
+
+---
+
+ BetterHurtCam allows to disable the screenshake when you get hit, but also allows to instead lower or increase its intensity. Intensity can be changed either via the integrated config screen, or via a keybinding. See https://mod.uku3lig.net/betterhurtcam
