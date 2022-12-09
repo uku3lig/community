@@ -1,0 +1,5 @@
+type: text
+
+---
+
+ Please make sure you have BOTH `ukulib-0.x.x+1.1x.x.jar` AND `totemcounter-1.x.x+mc1.1x.x.jar` (or any other uku mod) in your mod folder. Having ukulib alone won't do anything, as it is a library mod and by itself doesn't do anything. Despite that, you still need ukulib to make uku's mods work. 
