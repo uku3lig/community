@@ -1,6 +1,6 @@
 type: embed
 
-colour: blue
+colour: #0ba056
 embed:
   title: Alternative Minecraft Launchers
   fields:
@@ -8,21 +8,30 @@ embed:
       name: Advantages of Using an Alternative Launcher
       inline: false
       value: |
-        * Most alternative launchers have one-click installs for Fabric
-        * Some alternative launchers have built-in mod downloading and updating
-        * Some alternative launchers have built-in modpack downloading and updating
-        * Designed specifically for modded Minecraft
-        * Most alternative launchers automatically create separate folders for instances which helps you separate your saves
+        · Most alternative launchers have one-click installs for Fabric
+        · Some alternative launchers have built-in mod downloading and updating
+        · Some alternative launchers have built-in modpack downloading and updating
+        · Designed specifically for modded Minecraft
+        · Most alternative launchers automatically create separate folders for instances which helps you separate your saves
     -
       name: List of Some Alternative Launchers
       inline: false
       value: |
-        * [MultiMC](https://multimc.org/)
-        * [Prism Launcher](https://prismlauncher.org/)
-        * [GDLauncher](https://gdlauncher.com/)
-        * [ATLauncher](https://atlauncher.com/)
-        * [CurseForge App](https://download.curseforge.com/)
-        * [Technic Launcher](https://www.technicpack.net/) (Modpack only)
+        **» [Prism Launcher](https://prismlauncher.org/) (Recommended by uku)**
+        **»** [MultiMC](https://multimc.org/)
+        **»** [GDLauncher](https://gdevs.io/)
+        **»** [Technic Launcher](https://www.technicpack.net/) (Modpack only)
+        **»** [ATLauncher (**Not TLauncher**)](https://atlauncher.com/) (Modpack only)
+    -
+      name: Why not clients such as Feather or Lunar?
+      inline: false
+      value: |
+        · Most of them are closed source
+        · Most of them (like Lunar and Badlion) don't support adding your own mods (or even fabric at all!)
+        · Feather client is extremely badly designed and is always a pain to debug
+        · They lack many good features other launchers have (such as modpack support)
+        · Most of them advertise performance gains but are pure bloat
+
 
 ---
 
